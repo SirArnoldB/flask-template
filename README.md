@@ -1,2 +1,2 @@
-# rp_flask_board
-Flask Board Tutorial App
+# Flask Template Project
+Source: https://realpython.com/flask-project/
