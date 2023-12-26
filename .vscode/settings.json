@@ -1,0 +1,6 @@
+{
+  "python.createEnvironment.contentButton": "show",
+  "python.autoComplete.extraPaths": [],
+  "python.globalModuleInstallation": false,
+  "python.terminal.activateEnvInCurrentTerminal": true
+}
